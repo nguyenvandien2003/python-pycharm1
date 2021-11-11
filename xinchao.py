@@ -1,0 +1,1 @@
+print( "tuân thủ nguyên tắc 5k để phòng chống covid ")
